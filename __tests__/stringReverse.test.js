@@ -1,4 +1,4 @@
-import { stringReverse } from "./stringReverse.js";
+import { stringReverse } from "../stringReverse.js";
 
 describe("Reverse string", () => {
   it("ordinary string", () => {
